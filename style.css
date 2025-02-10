@@ -80,7 +80,7 @@ main {
   z-index: -1;
   background: white;
   width: 390px;
-  height: 180px;
+  height: 500px;
 
   transition: all .75s;
 }
@@ -125,7 +125,7 @@ main {
     top: 0;
   }
   100% {
-    top: -500px;
+    top: -120px;
   }
 }
 
