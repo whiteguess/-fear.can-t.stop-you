@@ -38,7 +38,7 @@ btnOpenElement.addEventListener('click', ()=> {
     const heartElement = document.querySelector('.heart')
     heartElement.style.display = 'block'
   
-  }, 500)
+  }, 1000)
 
 })
 btnCloseElement.addEventListener('click', ()=> {
